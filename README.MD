@@ -1,1 +1,1 @@
-https://dashboard.heroku.com/apps/pacific-wave-90859/deploy/github
+https://pacific-wave-90859.herokuapp.com
